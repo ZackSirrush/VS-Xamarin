@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Regla_Cramer_ES1921013978_AINT.Vistas.Resultados"
+             Title="Regla de Cramer: Resultados"
+             >
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Regresar" Clicked="regresar_Clicked"/>
+    </ContentPage.ToolbarItems>    <!-- Vínculo para redirigir a página de principal -->
+    
+    <StackLayout Padding="20">
+
+        <Label Text="Determinate del sistema" Margin="40,5" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="determinanteSistema" Margin="40,5" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+
+        <Label Text="Determinate de incógnita X" Margin="40,5" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="determinanteX" Margin="40,5" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+
+        <Label Text="Determinate de incógnita Y" Margin="40,5" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="determinanteY" Margin="40,5" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+
+        <Label Text="Resultados" Margin="40,5" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+        <Label x:Name="resultadosX" Margin="40,5" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+        <Label x:Name="resultadosY" Margin="40,5" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+
+        <Button Text="Salir" 
+                TextTransform="None" 
+                Margin="50" 
+                CornerRadius="10" 
+                BackgroundColor="ForestGreen"
+                FontSize="Medium"
+                VerticalOptions="EndAndExpand"
+                x:Name="btnsalir"
+                Clicked="btnsalir_Clicked"/>
+        <!-- Botón para salir de la aplicación -->
+
+    </StackLayout>
+</ContentPage>
