@@ -1,0 +1,34 @@
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.deps.json
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.dll
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.pdb
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.csproj.AssemblyReference.cache
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.AssemblyInfoInputs.cache
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.AssemblyInfo.cs
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.csproj.CoreCompileInputs.cache
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.dll
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\refint\HorarioSemanal_ES1921013978_AINT.dll
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.pdb
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\ref\HorarioSemanal_ES1921013978_AINT.dll
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\HorarioP.xaml.g.cs
+D:\Programas\HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\Historico.xaml.g.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.deps.json
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\bin\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.pdb
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.csproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\Historico.xaml.g.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\HorarioP.xaml.g.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.AssemblyInfo.cs
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\refint\HorarioSemanal_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\HorarioSemanal_ES1921013978_AINT.pdb
+C:\Users\isaac\Downloads\2. HorarioSemanal_ES1921013978_AINT\HorarioSemanal_ES1921013978_AINT\obj\Debug\netstandard2.0\ref\HorarioSemanal_ES1921013978_AINT.dll
