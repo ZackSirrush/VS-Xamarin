@@ -1,0 +1,100 @@
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.deps.json
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.AssemblyReference.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfoInputs.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfo.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.CoreCompileInputs.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\refint\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\ejemplosactividad1\obj\Debug\netstandard2.0\ref\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.deps.json
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.AssemblyReference.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfoInputs.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfo.cs
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.CoreCompileInputs.cache
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\refint\ejemplosactividad1.dll
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\Actividad 1\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ref\ejemplosactividad1.dll
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.deps.json
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.AssemblyReference.cache
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfoInputs.cache
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfo.cs
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.CoreCompileInputs.cache
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.dll
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\refint\ejemplosactividad1.dll
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.pdb
+D:\Programación móvil\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ref\ejemplosactividad1.dll
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.deps.json
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.dll
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.pdb
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfo.cs
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.dll
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\refint\ejemplosactividad1.dll
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.pdb
+F:\Programas\Visual Studio\Xamarin\Programación móvil\Unidad 2\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ref\ejemplosactividad1.dll
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.deps.json
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.dll
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\bin\Debug\netstandard2.0\ejemplosactividad1.pdb
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.AssemblyInfo.cs
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.dll
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\refint\ejemplosactividad1.dll
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ejemplosactividad1.pdb
+C:\Users\isaac\Downloads\EjemploScrollViewLayoutyPage\ejemplosactividad1\obj\Debug\netstandard2.0\ref\ejemplosactividad1.dll
