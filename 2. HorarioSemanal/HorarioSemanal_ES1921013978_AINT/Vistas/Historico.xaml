@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HorarioSemanal_ES1921013978_AINT.Vistas.Historico"
+             Title="Histórico de actividades">
+    <StackLayout Margin="20">
+
+        <Label Text="Actividades pendientes" FontAttributes="Bold" />
+            <ListView x:Name="ListViewPendientes" RowHeight="100" Margin="20"> <!-- Listview para actividades pendientes -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding Realizada}" VerticalOptions="Center" IsEnabled="False"/> <!-- Retoma el check box de las actividades, pero deshabilitado -->
+                                <StackLayout>
+                                    <Label Text="{Binding Nombre}" /> <!-- Retoma los valores de las actividades de la lista -->
+                                    <Label Text="{Binding Fecha}" />
+                                    <Label Text="{Binding Hora}" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label Text="Actividades realizadas" FontAttributes="Bold" />
+            <ListView x:Name="ListViewRealizadas" RowHeight="100" Margin="20"> <!-- Listview para actividades pendientes -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding Realizada}" VerticalOptions="Center" IsEnabled="False"/><!-- Retoma el check box de las actividades, pero deshabilitado -->
+                                <StackLayout>
+                                    <Label Text="{Binding Nombre}" /><!-- Retoma los valores de las actividades de la lista -->
+                                    <Label Text="{Binding Fecha}" />
+                                    <Label Text="{Binding Hora}" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+    </StackLayout>
+</ContentPage>

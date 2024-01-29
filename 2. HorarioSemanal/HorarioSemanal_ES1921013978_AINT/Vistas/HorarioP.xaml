@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HorarioSemanal_ES1921013978_AINT.Vistas.HorarioP"
+             Title="Horario Personal"
+             >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Historico" Clicked="IrHistorico_Clicked"/>
+    </ContentPage.ToolbarItems> <!-- Vínculo para redirigir a página de historicos -->
+    
+    <StackLayout Margin="20">
+        <!-- Formulario para calendario de actividades -->
+        <Label Text="Nombre de la actividad:" />
+        <Entry x:Name="NombreEntry" />
+
+        <Label Text="Fecha de la actividad:" />
+        <DatePicker x:Name="SelectorFecha" />
+
+        <Label Text="Hora de la actividad:" />
+        <TimePicker x:Name="SelectorHora"/>
+
+        <Label Text="¿Actividad completada?" />
+        <CheckBox x:Name="actividadRealizadaCB"/>
+
+        <!-- Botón para añadir nueva actividad con evento clicked para ejecutar acciones -->
+        <Button Text="Agregar actividad" 
+                x:Name="AgregarActividad"
+                TextTransform="None" 
+                Margin="5" 
+                CornerRadius="10" 
+                BackgroundColor="#2196F3"
+                FontSize="Medium"
+                Clicked="AgregarActividad_Clicked"
+                />
+        <!-- ListView de actividades registradas -->
+        <ListView Header="Actividades listadas" x:Name="ListViewActividades" Margin="10" RowHeight="100">
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox IsChecked="{Binding Realizada}" VerticalOptions="Center"/>
+                            <StackLayout>
+                                <Label Text="{Binding Nombre}"/>
+                                <Label Text="{Binding Fecha}"/>
+                                <Label Text="{Binding Hora}"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HorarioSemanal_ES1921013978_AINT.MainPage"
+             NavigationPage.HasNavigationBar="False"> <!-- Quita barra de navegación -->
+
+    <StackLayout VerticalOptions="Fill" Spacing="20">
+        <Frame BackgroundColor="#2196F3" Margin="30,10" Padding="15" CornerRadius="0"> <!-- Marco de título con diseño -->
+            <Label Text="Horario Semanal" 
+                   HorizontalTextAlignment="Center"
+                   TextColor="White" 
+                   FontSize="36"
+                   FontAttributes="Bold"/>
+        </Frame>
+
+        <Image Margin="40" 
+               Source="https://i0.wp.com/serendipia.digital/wp-content/uploads/2022/07/eliminar-el-horario-de-verano-Recuperado.jpg" />
+                <!-- Añade imágen tomada de intenet -->
+        
+        <Button Text="Ver horario semanal" 
+                TextTransform="None" 
+                Margin="50" 
+                CornerRadius="10" 
+                BackgroundColor="#2196F3"
+                FontSize="Medium"
+                x:Name="btnhorario"
+                Clicked="btnhorario_Clicked"/> <!-- Botón para ver horario -->
+
+        <Frame BackgroundColor="#2196F3" Padding="30,15,30,15" Margin="30,10" CornerRadius="0" VerticalOptions="EndAndExpand">
+            <Label Text="Autor: Angel Isaac Nabor Torres / Docente: Verónica Espinoza Romo / Grupo: DS-DPMO-2301-B2-002" 
+                   TextColor="White"
+                   FontSize="Small"
+                   HorizontalTextAlignment="Center"/> <!-- Función al estilo FOOTER con mis datos principales -->
+
+        </Frame>
+    </StackLayout>
+</ContentPage>
