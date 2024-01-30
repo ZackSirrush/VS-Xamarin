@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIb4oWnpOx5k7Y+0hPeTe7VO71y4I18vcR+zIqq4sgddYFzex789iRgjFPflgt2P9H8Om78uhN9oL4HMWhAVxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\Downloads\\3. Regla_Cramer_ES1921013978_AINT\\Regla_Cramer_ES1921013978_AINT.iOS\\Regla_Cramer_ES1921013978_AINT.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
