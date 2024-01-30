@@ -1,0 +1,33 @@
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.deps.json
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.dll
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.pdb
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.csproj.AssemblyReference.cache
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.AssemblyInfoInputs.cache
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.AssemblyInfo.cs
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.csproj.CoreCompileInputs.cache
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.dll
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\refint\Regla_Cramer_ES1921013978_AINT.dll
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.pdb
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\ref\Regla_Cramer_ES1921013978_AINT.dll
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+D:\Programas\Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\Resultados.xaml.g.cs
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.deps.json
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\bin\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.pdb
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.csproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Vistas\Resultados.xaml.g.cs
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.AssemblyInfo.cs
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.sourcelink.json
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\refint\Regla_Cramer_ES1921013978_AINT.dll
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\Regla_Cramer_ES1921013978_AINT.pdb
+C:\Users\isaac\Downloads\3. Regla_Cramer_ES1921013978_AINT\Regla_Cramer_ES1921013978_AINT\obj\Debug\netstandard2.0\ref\Regla_Cramer_ES1921013978_AINT.dll
